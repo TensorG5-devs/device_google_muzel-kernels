@@ -10,6 +10,7 @@ System.map
 abi_gki_aarch64_pixel
 ddk-uapi-headers.tar.gz
 dtb.img
+gki_certification_tools.tar.gz
 initramfs.img
 kernel-headers.tar.gz
 kernel-uapi-headers.tar.gz
@@ -17,6 +18,7 @@ kernel_aarch64_Module.symvers
 kernel_aarch64_modules
 kernel_kmi_symbol_list_violations_checked
 kernel_modules
+kunit_tests.zip
 modules.builtin
 modules.builtin.modinfo
 system_dlkm.img
@@ -32,8 +34,4 @@ vendor_kernel_boot.img
 vmlinux
 vmlinux.symvers
 
-init.insmod.husky.cfg
-init.insmod.ripcurrent.cfg
-init.insmod.ripcurrent24.cfg
-init.insmod.ripcurrentpro.cfg
-init.insmod.shiba.cfg
+init.insmod.deepspace.cfg
